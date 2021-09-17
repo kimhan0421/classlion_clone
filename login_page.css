@@ -155,9 +155,20 @@
 }
 
 .social-logo {
-	margin-right: 90px;
+	margin-right: 60px;
 	cursor: pointer;
-	width: 50px !important;
+}
+
+.small {
+	width: 30px;
+}
+
+.medium {
+	width: 34px;
+}
+
+.last {
+	width: 47.5px;
 }
 
 .footer__inner__hours,
